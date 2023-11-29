@@ -12,8 +12,6 @@
   <img src="./Assets/Images/logo.jpg" height="250px">
   </p>
 
-<p align="center"> Don't forget to join our official <a href="https://discord.gg/X3HZAPzykU">Discord Channel</a> for discussions and updates. </p>
-
 
 ## Features of PetMe at a Glance
 
