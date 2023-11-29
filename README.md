@@ -1,12 +1,3 @@
-<p align="center">About the project:</p>
-<p align="center">
-    <img src="https://img.shields.io/github/issues/akshitagupta15june/PetMe"> 
-    <img src="https://img.shields.io/github/issues-pr/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/forks/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/stars/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/license/akshitagupta15june/PetMe">
-</p>
-
 <p align="center">Tech Stack:</p>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -37,13 +28,13 @@
 
 ## Accomplishments:
 
-We are proud to build a website where pet lovers can easily adopt animals that need a home. They can not only provide medical assistance to them but can also allow their fellow comrades in the community to adopt them.
+I am proud to build a website where pet lovers can easily adopt animals that need a home. They can not only provide medical assistance to them but can also allow their fellow comrades in the community to adopt them.
 
 ## What's next for PetMe 📲
 
-In future, we plan to scale this application to reach as many people as possible and facilitate adoption and donation of animals.
+In future, i plan to scale this application to reach as many people as possible and facilitate adoption and donation of animals.
 
-Furthermore, we plan to connect with the nearest government organization that provides medical assistance to stray animals.
+Furthermore, i plan to connect with the nearest government organization that provides medical assistance to stray animals.
 
 ## License 🛡️ 
 
